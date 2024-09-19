@@ -1,63 +1,57 @@
-# himatt.com
+# willyang.space
 
-Personal portfolio made with [Jekyll](https://jekyllrb.com/), deployed via [Netlify](https://netlify.com/)
+使用 [Jekyll](https://jekyllrb.com/) 制作的个人作品集。
 
-## Setup
+## 设置
 
-This site runs on Jekyll, an opensource static site generating platform.
+该站点运行在 Jekyll 上，这是一个开源的静态网站生成平台。
 
-- Clone or download a zip of this project to your computer and navigate to the
-  project directory in your terminal
-  
-- Make sure Ruby is installed, to check if it is, run:
-  ```
-  ruby -v
-  ``` 
-  For more information about installing Ruby, refer to the [Ruby installation ](https://www.ruby-lang.org/en/documentation/installation/).
+- 克隆或下载此项目的压缩包到您的计算机，并在终端中导航到项目目录。
+    
+- 确保已安装 Ruby，检查是否安装的方法是运行以下命令：
+    
+    复制代码
+    
+    `ruby -v`
+    
+    有关安装 Ruby 的更多信息，请参考 [Ruby 安装指南](https://www.ruby-lang.org/en/documentation/installation/)。
+    
+- 从命令行安装 Jekyll 和 bundler [gems](https://jekyllrb.com/docs/ruby-101/#gems)：
+    
+    复制代码
+    
+    `gem install jekyll bundler`
+    
+    有关安装 Jekyll 的更多信息，请参考 [Jekyll 快速入门指南](https://jekyllrb.com/docs/quickstart/)。
+    
+- 通过运行以下命令安装项目的 Gem 依赖项：
+    
+    复制代码
+    
+    `bundle install`
+    
+- 要在本地环境中运行服务器，请运行：
+    
+    bash
+    
+    复制代码
+    
+    `bundle exec jekyll serve`
+    
+- 在浏览器中访问 [http://localhost:4000/](http://localhost:4000/)
+    
 
-- Install the Jekyll and bundler [gems](https://jekyllrb.com/docs/ruby-101/#gems) from the commandline:
-  ```
-  gem install jekyll bundler
-  ```
-  For more information about installing Jekyll, refer to the [Jekyll quickstart guide](https://jekyllrb.com/docs/quickstart/)
+## 一般信息
 
-
-- Install Gem dependencies for the project by running:
-  ```
-  bundle install
-  ```
-  
-- To run the server in your local environment run:
-  ```
-  bundle exec jekyll serve
-  ```
-  
-- Go to http://localhost:4000/ in your browser
-
-
-## General information
-
-- Static website
-- Optimised for efficient [PageSpeed Insights benchmarks](https://developers.google.com/speed/pagespeed/insights/?url=himatt.com) (still more to do in this space)
-- No Jekyll plugin dependancies (previously used Bourbon and Neat, now uses CSS Grid and CSS Custom properties)
-- Continuously deployed using Netlify
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/01ca9c4b-b99d-411f-9003-9fad58ccbcf3/deploy-status)](https://app.netlify.com/sites/mattgrey/deploys)
-
-## Licenses
-
-### Underlying source code
-
-Under the [GNU General Public License v3.0](LICENSE), you can adapt and use the source code of this site (but not it's content) for personal and commercial use, so long as you retain the same license for your own project. See a quick breakdown of what you can and cant do [here](https://tldrlegal.com/license/gnu-lesser-general-public-license-v3-(lgpl-3))
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
+- 静态网站
+- 针对高效的 [PageSpeed Insights 基准测试](https://developers.google.com/speed/pagespeed/insights/?url=willyang.space) 进行了优化（在此方面仍有改进空间）
+- 无 Jekyll 插件依赖（以前使用 Bourbon 和 Neat，现在使用 CSS 网格布局和 CSS 自定义属性）
 
 
-### Content
+## 许可证
 
-© Matthew Grey and himatt.com. Unauthorised use and/or duplication and
-adaptation of this material (all image formats, text and additional media files)
-without express and written permission from this site’s author and/or owner is
-strictly prohibited. Excerpts and links may be used, provided that full and
-clear credit is given to Matthew Grey and/or himatt.com with appropriate and
-specific direction to the original content.
+### 底层源代码
+
+根据 [GNU 通用公共许可证 v3.0](LICENSE)，您可以调整并使用本网站的源代码（但不包括内容）用于个人和商业用途，只要您对自己的项目保留相同的许可证。请参阅 [此处](https://tldrlegal.com/license/gnu-lesser-general-public-license-v3-(lgpl-3)) 了解您可以和不能做的事情。
+
+[![许可证: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)

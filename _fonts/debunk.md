@@ -1,6 +1,6 @@
 ---
 date: 2012-09-25
-published: true
+published: false
 order_number: 6
 title: "Debunk"
 description: "Distressed typewriter typeface"
