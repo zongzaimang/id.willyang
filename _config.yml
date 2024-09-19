@@ -1,0 +1,99 @@
+# 欢迎使用 Jekyll！
+#
+# 这个配置文件用于设置影响整个博客的参数，
+# 通常你只需设置一次，之后很少需要修改。
+# 由于技术原因，当你使用 'jekyll serve' 时，这个文件不会自动重新加载。
+# 如果你更改了这个文件，请重新启动服务器进程。
+
+# 插件:
+
+exclude:
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+
+include:
+  - _pages
+  - _redirects
+
+# 站点设置
+title: Will Yang
+long-title: Will Yang Design
+email: willyangdesign@gmail.com
+description: "产品设计师 Will Yang 的精选作品集"
+baseurl: "" # 网站的子路径，例如 /blog
+url: "https://zongzaimang.github.io/" # 网站的主机名和协议
+timezone: China/Guangzhou
+year: 2024
+start-year: 2017
+sitemap: true
+
+# 社交网络
+social-username:
+  twitter: "@willyangdesign"
+  linkedin: "willyang"
+  github: "willyangdesign"
+  medium: "@willyangdesign"
+  pinterest: "willyangdesign"
+  instagram: "willyangdesign"
+  flickr: "willyangdesign"
+  spotify: "willyangdesign"
+
+# 内容
+image_serve_path: "/images" # <img src="{{ site.image_serve_path }}/projects/img.jpg">
+
+# 构建设置
+markdown: kramdown
+
+kramdown:
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+# Sass 输出
+sass:
+  style: compressed # :nested :compact :expanded :compressed
+
+compress_html: # http://jch.penibelst.de/
+  enabled: true # 压缩 html
+  clippings: all # 裁剪安全标签
+  comments: []
+  endings: []
+  #ignore:
+    #envs: [local]
+  blanklines: false # boolean - 删除空行和换行符
+  profile: false
+  startings: []
+
+# 结构
+navigation:
+  - title: PRODUCT
+    url: /Projects
+  - title: PACKAGING
+    url: /packaging
+  - title: ABOUT
+    url: /about
+  - title: CONTACT
+    url: /contact
+
+permalink: /:title/
+
+# 配置站点集合
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+  fonts:
+    output: true
+    permalink: /packaging/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "fonts"
+    values:
+      layout: "font"
