@@ -1,6 +1,6 @@
 ---
 date: 2020-01-06
-published: false
+published: true
 order_number: 2
 title: "Pixter"
 description: "A versatile pixel font"

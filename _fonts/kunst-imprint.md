@@ -1,6 +1,6 @@
 ---
 date: 2017-02-20
-published: false
+published: true
 order_number: 5
 title: "Kunst Imprint"
 description: "Purely geometric core with inky terminals"

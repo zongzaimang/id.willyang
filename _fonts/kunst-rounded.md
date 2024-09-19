@@ -1,6 +1,6 @@
 ---
 date: 2017-02-20
-published: false
+published: true
 order_number: 4
 title: "Kunst Rounded"
 description: "Purely geometric core with rounded terminals"

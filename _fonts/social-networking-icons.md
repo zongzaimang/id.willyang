@@ -1,6 +1,6 @@
 ---
 date: 2017-02-21
-published: false
+published: true
 order_number: 1
 title: "Social Networking Icons"
 description: "An icon font"

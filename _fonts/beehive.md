@@ -1,6 +1,6 @@
 ---
 date: 2012-08-25
-published: false
+published: true
 order_number: 8
 title: "Beehive"
 description: "Art deco typeface"
