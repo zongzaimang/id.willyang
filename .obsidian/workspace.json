@@ -11,8 +11,43 @@
             "id": "68b3959e8f7805b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_projects/butterfly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9452dbd0685ac526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_projects/butterfly.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "bea750678253acdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40fff50cb9c2a172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_projects/butterfly.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_projects/butterfly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_projects/butterfly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_projects/butterfly.md"
+              }
             }
           }
         ]
@@ -138,8 +177,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "68b3959e8f7805b1",
+  "active": "9452dbd0685ac526",
   "lastOpenFiles": [
+    "未命名.md",
     "_projects/butterfly.md",
     "_projects/COLBOR-PL8R.md",
     "_projects/saatchi-gallery.md",
