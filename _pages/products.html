@@ -6,12 +6,12 @@ permalink: /
 priority: 1.0
 ---
 
-<div class="projects-intro-wrapper">
-  <p class="projects-intro type-level-1">Dreamer, Will Yang.</p>
+<div class="products-intro-wrapper">
+  <p class="products-intro type-level-1">Dreamer, Will Yang.</p>
 </div>
 
-<div class="projects">
-{% for project in site.projects reversed limit:include.limit %}
+<div class="products">
+{% for project in site.products reversed limit:include.limit %}
   <article class="project-listing">
     <div class="thumbnail-wrapper">
       <a href="{{ project.url | prepend: site.baseurl }}">
