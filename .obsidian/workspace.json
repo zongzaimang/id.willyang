@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b85a9680489f029e",
+        "id": "1a59452c23a1c2cc",
         "type": "tabs",
         "children": [
           {
-            "id": "54857a980ff678bc",
+            "id": "2d3a07c8964a6429",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_projects/textile-design-catalogue.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_projects/textile-design-catalogue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_projects/textile-design-catalogue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_projects/textile-design-catalogue.md"
+              }
             }
           }
         ]
@@ -138,10 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "54857a980ff678bc",
+  "active": "2d3a07c8964a6429",
   "lastOpenFiles": [
-    "_projects/textile-design-catalogue.md",
     "_projects/saatchi-gallery.md",
+    "_projects/textile-design-catalogue.md",
     "readme.md",
     "Pasted image 20240920163307.png",
     "image1_url.md",
