@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dc38259d6dd17fe7",
+        "id": "3a08bf99a8bb888b",
         "type": "tabs",
         "children": [
           {
-            "id": "8e228530da1c7130",
+            "id": "e3ef780377404f5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_projects/butterfly.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_projects/butterfly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_projects/butterfly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_projects/butterfly.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8e228530da1c7130",
+  "active": "e3ef780377404f5c",
   "lastOpenFiles": [
-    "_projects/butterfly1.md",
     "_projects/butterfly.md",
+    "_projects/butterfly1.md",
     "_projects/saatchi-gallery.md",
     "_projects/textile-design-catalogue.md",
     "_projects/COLBOR-CL60R.md",
