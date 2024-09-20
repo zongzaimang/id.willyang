@@ -11,8 +11,12 @@
             "id": "d9b6b6e47f81ac2d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_projects/COLBOR-CL60R.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "_projects/COLBOR-CL60R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "_projects/COLBOR-CL60R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "_projects/COLBOR-CL60R.md"
               }
             }
           }
@@ -144,24 +148,25 @@
   },
   "active": "d05ef9f4d462fa2c",
   "lastOpenFiles": [
+    "_drafts/projects.html",
+    "_projects/COLBOR-PL8R.md",
+    "_projects/COLBOR-CL60R.md",
+    "_projects/butterfly.md",
+    "_projects/saatchi-gallery.md",
+    "_projects/textile-design-catalogue.md",
+    "_drafts/butterfly.md",
+    "_drafts/saatchi-gallery 1.md",
+    "readme.md",
     "_drafts/未命名.md",
     "Pasted image 20240920223657.png",
     "image1_url.md",
     "Pasted image 20240920224642.png",
-    "readme.md",
     "Pasted image 20240920224614.png",
-    "_drafts/saatchi-gallery 1.md",
-    "_projects/saatchi-gallery.md",
-    "_projects/textile-design-catalogue.md",
-    "_projects/COLBOR-PL8R.md",
-    "_projects/COLBOR-CL60R.md",
-    "_projects/butterfly.md",
     "_projects/butterfly1.md",
     "_fonts/social-networking-icons.md",
     "_fonts/pixter.md",
     "Pasted image 20240920163307.png",
     "image2_url.md",
-    "_drafts/butterfly.md",
     "_config2.yml",
     "images/projects/230423 MH40Pro/03.jpg",
     "images/projects/230423 MH40Pro/plist-220823 SUMMIT10000.jpg",
