@@ -22,7 +22,10 @@ intro: |-
   various outlets (in-gallery, online and magazine) has diluted the potential of
   the Saatchi name.
 ---
-![](https://d33wubrfki0l68.cloudfront.net/a5af0b2a72e8067ba82c1da4d5d36571813efae6/ab120/images/projects/butterfly/butterfly-main-navigation.jpg)<br>
-![](https://d33wubrfki0l68.cloudfront.net/7c7a803dcbf4c1480f70bc0cb9a81bbfa00bfadf/8f7c4/images/projects/butterfly/butterfly-profile.jpg)<br>
-![](https://d33wubrfki0l68.cloudfront.net/d79b2140fd2fcc0b64ecd860c4b2fe0bd50e8edd/2ff40/images/projects/butterfly/butterfly-onboarding.jpg)<br>
-![](https://d33wubrfki0l68.cloudfront.net/7e437886dfed3ccffc67f47bab9dbbb76fb796c1/b2afb/images/projects/butterfly/butterfly-chat.jpg)<br>
+<table>
+  <tr>
+    <td><img src="https://d33wubrfki0l68.cloudfront.net/392c9c156b6baa4b009ed35302fd1c4c02f30f7b/f103f/images/projects/saatchi-gallery/saatchi-logo.png" width="45%"></td>
+    <td width="20px"></td> <!-- 设置间距 -->
+    <td><img src="https://d33wubrfki0l68.cloudfront.net/9e7a48623210c767a8714a46fda0981d1c37f23b/24a60/images/projects/saatchi-gallery/saatchi-magazine.jpg" width="45%"></td>
+  </tr>
+</table>
