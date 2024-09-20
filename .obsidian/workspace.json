@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "_projects/textile-design-catalogue.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -148,9 +148,9 @@
   },
   "active": "e3ef780377404f5c",
   "lastOpenFiles": [
-    "_projects/saatchi-gallery.md",
-    "_projects/textile-design-catalogue.md",
     "未命名.md",
+    "_projects/textile-design-catalogue.md",
+    "_projects/saatchi-gallery.md",
     "_projects/butterfly.md",
     "_projects/COLBOR-CL60R.md",
     "_projects/COLBOR-PL8R.md",
