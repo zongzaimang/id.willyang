@@ -19,52 +19,6 @@ intro: |
   acetate and a varying thickness of paper — without actually showing any work
   — to create a delicate sense of texture and layering, which mirrors the
   delicate weave and material of textile work.
-
-content_layout:
-
-  - section_layout: 2col
-    images:
-      - caption:
-        description: 'Front cover and sleeve'
-        url: '/projects/fu-textile-design/tdfu-cover.png'
-        width:
-        height:
-
-      - caption:
-        description: 'Front cover and sleeve taken off'
-        url: '/projects/fu-textile-design/tdfu-sleeve-detail.png'
-        width:
-        height:
-
-  - section_layout: 2col
-    images:
-      - caption:
-        description: 'Front cover and sleeve taken off'
-        url: '/projects/fu-textile-design/tdfu-sleeve.jpg'
-        width:
-        height:
-
-      - caption:
-        description: 'Front cover and sleeve'
-        url: '/projects/fu-textile-design/tdfu-cover-detail.jpg'
-        width:
-        height:
-
-  - section_layout: 2col
-    images:
-      - caption:
-        description: 'Front cover and sleeve taken off'
-        url: '/projects/fu-textile-design/tdfu-contents.jpg'
-        width:
-        height:
-
-      - caption:
-        description: 'Front cover and sleeve'
-        url: '/projects/fu-textile-design/tdfu-showcase.jpg'
-        width:
-        height:
-
-
 ---
 | ![Image1](https://d33wubrfki0l68.cloudfront.net/2a008b50e33771ec83d19a7ad999c4a78b4c08cf/93274/images/projects/fu-textile-design/tdfu-cover.png) | ![Image2](https://d33wubrfki0l68.cloudfront.net/4ffc9fd02b55ea10dcaacf5556f8ce529df5c89a/57e48/images/projects/fu-textile-design/tdfu-sleeve-detail.png) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |

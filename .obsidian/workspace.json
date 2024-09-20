@@ -11,8 +11,12 @@
             "id": "c19bbad13d62ba63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_projects/textile-design-catalogue.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "_projects/textile-design-catalogue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "_projects/textile-design-catalogue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "_projects/textile-design-catalogue.md"
               }
             }
           }
@@ -142,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d05ef9f4d462fa2c",
+  "active": "c19bbad13d62ba63",
   "lastOpenFiles": [
+    "readme.md",
     "Pasted image 20240920163307.png",
     "image1_url.md",
     "image2_url.md",
@@ -177,7 +182,6 @@
     "_products/butterfly.md",
     "_products/saatchi-gallery.md",
     "_products/201201 Colbor PL8R.md",
-    "_drafts/230130 HC65 UHE.md",
-    "readme.md"
+    "_drafts/230130 HC65 UHE.md"
   ]
 }
