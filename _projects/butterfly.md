@@ -10,7 +10,7 @@ media: Mobile App
 ownership: 
 client: Butterfly
 time_period: 2017
-thumbnail: "![](https://s2.loli.net/2024/09/20/gfBGXnrktNmDy69.jpg)"
+thumbnail: "https://s2.loli.net/2024/09/20/gfBGXnrktNmDy69.jpg"
 website:
   button_text: Visit the site
   url: https://www.butterfly.life/
