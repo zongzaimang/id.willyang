@@ -66,3 +66,6 @@ content_layout:
 
 
 ---
+| ![Image1](https://d33wubrfki0l68.cloudfront.net/2a008b50e33771ec83d19a7ad999c4a78b4c08cf/93274/images/projects/fu-textile-design/tdfu-cover.png) | ![Image2](https://d33wubrfki0l68.cloudfront.net/4ffc9fd02b55ea10dcaacf5556f8ce529df5c89a/57e48/images/projects/fu-textile-design/tdfu-sleeve-detail.png) |
+| :----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                      图片1说明                                                                       |                                                                          图片2说明                                                                           |

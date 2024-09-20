@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ed98a6df3131569",
+        "id": "b2117d283feabac7",
         "type": "tabs",
         "children": [
           {
-            "id": "5e410542b56bd73e",
+            "id": "c19bbad13d62ba63",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "readme.md"
+              }
             }
           }
         ]
@@ -138,8 +142,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5e410542b56bd73e",
+  "active": "d05ef9f4d462fa2c",
   "lastOpenFiles": [
+    "Pasted image 20240920163307.png",
+    "image1_url.md",
+    "image2_url.md",
+    "_projects/textile-design-catalogue.md",
+    "_projects/saatchi-gallery.md",
+    "_projects/butterfly.md",
+    "_drafts/butterfly.md",
     "_config2.yml",
     "images/projects/230423 MH40Pro/03.jpg",
     "images/projects/230423 MH40Pro/plist-220823 SUMMIT10000.jpg",
@@ -150,7 +161,6 @@
     "images/projects/230423 MH40Pro/04.jpg",
     "images/projects/240520 EDC27/plist-butterfly.jpg",
     "images/projects/240520 EDC27/butterfly-onboarding.jpg",
-    "images/projects/240520 EDC27/butterfly-profile.png",
     "images/projects/230423 MH40Pro",
     "images/projects/240520 EDC27",
     "images/projects/230810 HA15",
@@ -160,11 +170,7 @@
     "images/projects/221110 EBP10",
     "images/projects/220823 SUMMIT10000",
     "images/projects/210825 COLBOR CL60R",
-    "images/projects/220610 AP10",
-    "_projects/textile-design-catalogue.md",
-    "_projects/butterfly.md",
     "_projects/210825 COLBOR CL60R.md",
-    "_projects/saatchi-gallery.md",
     "_projects/201201 Colbor PL8R.md",
     "_products/textile-design-catalogue.md",
     "_products/210825 COLBOR CL60R.md",
@@ -172,7 +178,6 @@
     "_products/saatchi-gallery.md",
     "_products/201201 Colbor PL8R.md",
     "_drafts/230130 HC65 UHE.md",
-    "readme.md",
-    "_drafts/butterfly.md"
+    "readme.md"
   ]
 }
