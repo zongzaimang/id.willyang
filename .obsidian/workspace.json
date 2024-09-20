@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3bc298e3a58a9ddb",
+        "id": "4c99b659e5b58ada",
         "type": "tabs",
         "children": [
           {
-            "id": "8787cb557d94af30",
+            "id": "f0cc532d179d046b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,9 +138,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8787cb557d94af30",
+  "active": "f0cc532d179d046b",
   "lastOpenFiles": [
     "_projects/butterfly.md",
+    "_drafts/butterfly.md",
     "_projects/saatchi-gallery.md",
     "_projects/textile-design-catalogue.md",
     "_projects/201201 Colbor PL8R.md",

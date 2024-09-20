@@ -24,34 +24,8 @@ intro: |-
 
   I created the architecture, data requirements and UX flow of the application,
   first making a low fidelity prototype to test with users.
-content_layout:
-  - section_layout: 1col
-    images:
-      - caption: Main functional tabs
-        description: Navigation
-        url: [/projects/butterfly/butterfly-main-navigation.jpg](https://d33wubrfki0l68.cloudfront.net/a5af0b2a72e8067ba82c1da4d5d36571813efae6/ab120/images/projects/butterfly/butterfly-main-navigation.jpg)
-        width: 
-        height: 
-  - section_layout: 1col
-    images:
-      - caption: Public profile media
-        description: Profile screens
-        url: /projects/butterfly/butterfly-profile.jpg
-        width: 
-        height: 
-  - section_layout: 1col
-    images:
-      - caption: Onboarding
-        description: Onboarding
-        url: /projects/butterfly/butterfly-onboarding.jpg
-        width: 
-        height: 
-  - section_layout: 1col
-    images:
-      - caption: Chat
-        description: Chat
-        url: /projects/butterfly/butterfly-chat.jpg
-        width: 
-        height:
 ---
-![](https://s2.loli.net/2024/09/14/jDPsKunm92apbkE.png)
+![](https://d33wubrfki0l68.cloudfront.net/a5af0b2a72e8067ba82c1da4d5d36571813efae6/ab120/images/projects/butterfly/butterfly-main-navigation.jpg)
+![](https://d33wubrfki0l68.cloudfront.net/7c7a803dcbf4c1480f70bc0cb9a81bbfa00bfadf/8f7c4/images/projects/butterfly/butterfly-profile.jpg)
+![](https://d33wubrfki0l68.cloudfront.net/d79b2140fd2fcc0b64ecd860c4b2fe0bd50e8edd/2ff40/images/projects/butterfly/butterfly-onboarding.jpg)
+![](https://d33wubrfki0l68.cloudfront.net/7e437886dfed3ccffc67f47bab9dbbb76fb796c1/b2afb/images/projects/butterfly/butterfly-chat.jpg)
