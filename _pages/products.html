@@ -11,17 +11,17 @@ priority: 1.0
 </div>
 
 <div class="products">
-{% for project in site.products reversed limit:include.limit %}
-  <article class="project-listing">
+{% for product in site.products reversed limit:include.limit %}
+  <article class="product-listing">
     <div class="thumbnail-wrapper">
-      <a href="{{ project.url | prepend: site.baseurl }}">
+      <a href="{{ product.url | prepend: site.baseurl }}">
         <div class="thumbnail-description-wrapper">
-          <img src="{{ project.thumbnail | prepend: site.image_serve_path }}" alt="{{ project.title }}" width="600" height="450">
+          <img src="{{ product.thumbnail | prepend: site.image_serve_path }}" alt="{{ product.title }}" width="600" height="450">
           <p class="thumbnail-description">
-            <span>{{ project.description }}</span>
+            <span>{{ product.description }}</span>
           </p>
         </div>
-        <h3 aria-hidden="true">{{ project.title }}</h3>
+        <h3 aria-hidden="true">{{ product.title }}</h3>
       </a>
     </div>
   </article>
