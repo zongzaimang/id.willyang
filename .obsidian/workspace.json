@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "4be55881c50ada67",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebe886ae4431440a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "696c4072305a891d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcbb4f76bb14ebc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "abd6d2dff85fb6b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d05ef9f4d462fa2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8931a8d0ce5206a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63239193732f3d21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9e53343c8e3ef59",
+    "type": "split",
+    "children": [
+      {
+        "id": "73edc564bf7bca45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "844544c005c15bab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e3bdd35477e88c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ceadab6c47899b89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "16fe00975d7ae8f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "696c4072305a891d",
+  "lastOpenFiles": [
+    "_projects/201201 Colbor PL8R.md",
+    "_projects/230130 HC65 UHE.md",
+    "_projects/210825 COLBOR CL60R.md",
+    "readme.md",
+    "images/mg-logo.png"
+  ]
+}
