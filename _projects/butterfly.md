@@ -29,7 +29,7 @@ content_layout:
     images:
       - caption: Main functional tabs
         description: Navigation
-        url: /projects/butterfly/butterfly-main-navigation.jpg
+        url: [/projects/butterfly/butterfly-main-navigation.jpg](https://d33wubrfki0l68.cloudfront.net/a5af0b2a72e8067ba82c1da4d5d36571813efae6/ab120/images/projects/butterfly/butterfly-main-navigation.jpg)
         width: 
         height: 
   - section_layout: 1col
