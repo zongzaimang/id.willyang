@@ -91,7 +91,7 @@ defaults:
       path: ""
       type: "products"
     values:
-      layout: "project"
+      layout: "products"
   - scope:
       path: ""
       type: "fonts"
