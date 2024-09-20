@@ -27,7 +27,7 @@ intro: |-
 ---
 
 | ![](https://d33wubrfki0l68.cloudfront.net/a5af0b2a72e8067ba82c1da4d5d36571813efae6/ab120/images/projects/butterfly/butterfly-main-navigation.jpg) |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------:|
+| :-----------------------------------------------------------------------------------------------------------------------------------------------: |
 | Main functional tabs                                                                                                                              |
 |                                                                                                                                                   |
 | ![](https://d33wubrfki0l68.cloudfront.net/7c7a803dcbf4c1480f70bc0cb9a81bbfa00bfadf/8f7c4/images/projects/butterfly/butterfly-profile.jpg)         |

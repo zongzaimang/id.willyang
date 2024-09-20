@@ -4,42 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9bdd4b153bb563c1",
+        "id": "30bc466ec85b1d2d",
         "type": "tabs",
         "children": [
           {
-            "id": "68b3959e8f7805b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_projects/butterfly.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9452dbd0685ac526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_projects/saatchi-gallery.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "bea750678253acdb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "40fff50cb9c2a172",
+            "id": "0bc0232a7c99e045",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -116,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_projects/saatchi-gallery.md",
+                "file": "_projects/butterfly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_projects/saatchi-gallery.md",
+                "file": "_projects/butterfly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_projects/saatchi-gallery.md"
+                "file": "_projects/butterfly.md"
               }
             }
           }
@@ -177,15 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9452dbd0685ac526",
+  "active": "0bc0232a7c99e045",
   "lastOpenFiles": [
-    "_fonts/social-networking-icons.md",
-    "_projects/butterfly.md",
-    "未命名.md",
-    "_projects/COLBOR-PL8R.md",
-    "_projects/saatchi-gallery.md",
     "_projects/textile-design-catalogue.md",
+    "_projects/butterfly.md",
+    "_projects/saatchi-gallery.md",
+    "_projects/COLBOR-PL8R.md",
     "_projects/COLBOR-CL60R.md",
+    "_fonts/social-networking-icons.md",
+    "未命名.md",
     "image1_url.md",
     "readme.md",
     "Pasted image 20240920163307.png",
