@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5de4d40ddf4a760c",
+        "id": "1f7ebe30a78de431",
         "type": "tabs",
         "children": [
           {
-            "id": "83035619dffa40e6",
+            "id": "959d99d0a4e3eb3a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "83035619dffa40e6",
+  "active": "d05ef9f4d462fa2c",
   "lastOpenFiles": [
     "_projects/butterfly.md",
     "_projects/COLBOR-CL60R.md",
