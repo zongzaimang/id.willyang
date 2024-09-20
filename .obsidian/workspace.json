@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d6d5f443fea0354",
+        "id": "9bdd4b153bb563c1",
         "type": "tabs",
         "children": [
           {
-            "id": "b74fafb925c89b2f",
+            "id": "68b3959e8f7805b1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,13 +138,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b74fafb925c89b2f",
+  "active": "68b3959e8f7805b1",
   "lastOpenFiles": [
-    "_projects/textile-design-catalogue.md",
     "_projects/butterfly.md",
-    "_projects/COLBOR-CL60R.md",
     "_projects/COLBOR-PL8R.md",
     "_projects/saatchi-gallery.md",
+    "_projects/textile-design-catalogue.md",
+    "_projects/COLBOR-CL60R.md",
     "image1_url.md",
     "readme.md",
     "Pasted image 20240920163307.png",
