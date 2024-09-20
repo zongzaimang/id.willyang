@@ -26,10 +26,13 @@ intro: |-
   first making a low fidelity prototype to test with users.
 ---
 ![](https://d33wubrfki0l68.cloudfront.net/a5af0b2a72e8067ba82c1da4d5d36571813efae6/ab120/images/projects/butterfly/butterfly-main-navigation.jpg)
-Main functional tabs<br>
+Main functional tabs
+<br>
 ![](https://d33wubrfki0l68.cloudfront.net/7c7a803dcbf4c1480f70bc0cb9a81bbfa00bfadf/8f7c4/images/projects/butterfly/butterfly-profile.jpg)
 Public profile media<br>
+
 ![](https://d33wubrfki0l68.cloudfront.net/d79b2140fd2fcc0b64ecd860c4b2fe0bd50e8edd/2ff40/images/projects/butterfly/butterfly-onboarding.jpg)
-Onboarding<br>
+Onboarding  
+
 ![](https://d33wubrfki0l68.cloudfront.net/7e437886dfed3ccffc67f47bab9dbbb76fb796c1/b2afb/images/projects/butterfly/butterfly-chat.jpg)
 Chat<br>
