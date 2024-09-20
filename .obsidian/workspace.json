@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4c99b659e5b58ada",
+        "id": "2d6596c268777774",
         "type": "tabs",
         "children": [
           {
-            "id": "f0cc532d179d046b",
+            "id": "65be8b971eb6a372",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_projects/butterfly.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_projects/butterfly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_projects/butterfly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_projects/butterfly.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f0cc532d179d046b",
+  "active": "65be8b971eb6a372",
   "lastOpenFiles": [
-    "_projects/saatchi-gallery.md",
     "_projects/butterfly.md",
+    "_projects/saatchi-gallery.md",
     "_projects/textile-design-catalogue.md",
     "_drafts/butterfly.md",
     "_projects/201201 Colbor PL8R.md",
