@@ -14,14 +14,14 @@ priority: 1.0
 {% for product in site.products reversed limit:include.limit %}
   <article class="product-listing">
     <div class="thumbnail-wrapper">
-      <a href="{{ product.url | prepend: site.baseurl }}">
+      <a href="{{ products.url | prepend: site.baseurl }}">
         <div class="thumbnail-description-wrapper">
-          <img src="{{ product.thumbnail | prepend: site.image_serve_path }}" alt="{{ product.title }}" width="600" height="450">
+          <img src="{{ products.thumbnail | prepend: site.image_serve_path }}" alt="{{ products.title }}" width="600" height="450">
           <p class="thumbnail-description">
-            <span>{{ product.description }}</span>
+            <span>{{ products.description }}</span>
           </p>
         </div>
-        <h3 aria-hidden="true">{{ product.title }}</h3>
+        <h3 aria-hidden="true">{{ products.title }}</h3>
       </a>
     </div>
   </article>
