@@ -11,8 +11,12 @@
             "id": "dc6aee42baa8144d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_projects/saatchi-gallery.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_projects/saatchi-gallery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_projects/saatchi-gallery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_projects/saatchi-gallery.md"
+              }
             }
           }
         ]
@@ -140,11 +148,11 @@
   },
   "active": "dc6aee42baa8144d",
   "lastOpenFiles": [
-    "_projects/butterfly.md",
+    "_projects/textile-design-catalogue.md",
     "_projects/saatchi-gallery.md",
     "_projects/COLBOR-PL8R.md",
     "_projects/COLBOR-CL60R.md",
-    "_projects/textile-design-catalogue.md",
+    "_projects/butterfly.md",
     "_fonts/social-networking-icons.md",
     "_fonts/pixter.md",
     "未命名.md",
