@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "30bc466ec85b1d2d",
+        "id": "3fe31d1fa82c2413",
         "type": "tabs",
         "children": [
           {
-            "id": "0bc0232a7c99e045",
+            "id": "9ca71f3e87fb3cda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_projects/butterfly.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_projects/butterfly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_projects/butterfly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_projects/butterfly.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,13 +138,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0bc0232a7c99e045",
+  "active": "9ca71f3e87fb3cda",
   "lastOpenFiles": [
+    "_projects/saatchi-gallery.md",
     "_projects/textile-design-catalogue.md",
     "_projects/butterfly.md",
-    "_projects/saatchi-gallery.md",
-    "_projects/COLBOR-PL8R.md",
     "_projects/COLBOR-CL60R.md",
+    "_projects/COLBOR-PL8R.md",
     "_fonts/social-networking-icons.md",
     "未命名.md",
     "image1_url.md",
