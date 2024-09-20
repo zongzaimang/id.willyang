@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "77d03aa225eda107",
+        "id": "4ca4f3e90e27fd6a",
         "type": "tabs",
         "children": [
           {
-            "id": "dfcbb0dee0de9455",
+            "id": "02dd0e780a27aa79",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_projects/butterfly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_projects/butterfly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_projects/butterfly.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,15 +138,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d05ef9f4d462fa2c",
+  "active": "02dd0e780a27aa79",
   "lastOpenFiles": [
-    "_projects/saatchi-gallery.md",
     "_projects/textile-design-catalogue.md",
+    "_projects/saatchi-gallery.md",
+    "_projects/butterfly.md",
+    "_projects/201201 Colbor PL8R.md",
+    "_projects/210825 COLBOR CL60R.md",
     "image1_url.md",
     "readme.md",
     "Pasted image 20240920163307.png",
     "image2_url.md",
-    "_projects/butterfly.md",
     "_drafts/butterfly.md",
     "_config2.yml",
     "images/projects/230423 MH40Pro/03.jpg",
@@ -171,8 +169,6 @@
     "images/projects/221110 EBP10",
     "images/projects/220823 SUMMIT10000",
     "images/projects/210825 COLBOR CL60R",
-    "_projects/210825 COLBOR CL60R.md",
-    "_projects/201201 Colbor PL8R.md",
     "_products/textile-design-catalogue.md",
     "_products/210825 COLBOR CL60R.md",
     "_products/butterfly.md",
