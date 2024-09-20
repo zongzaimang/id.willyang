@@ -9,7 +9,7 @@ media: Book
 ownership: Personal
 client: 
 time_period: 2014
-thumbnail: /projects/saatchi-gallery/plist-saatchi-gallery.jpg
+thumbnail: https://himatt.com/projects/saatchi-gallery/plist-saatchi-gallery.jpg
 intro: |-
   The Saatchi gallery is revered for its ability to introduce almost unknown
   artists into the public eye; the careers of Damien Hirst and Tracy Emin were

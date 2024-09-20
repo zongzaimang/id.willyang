@@ -1,16 +1,15 @@
 ---
 date: 2014-02-19
 published: true
-title: "Textile Design Catalogue"
-description: "A catalogue for 2013 graduates of the Textile Design course at Falmouth University"
+title: Textile Design Catalogue
+description: A catalogue for 2013 graduates of the Textile Design course at Falmouth University
 categories: print
 disciplines: Print, Typography, Bookbinding
 media: Book
 ownership: Personal
-client:
+client: 
 time_period: 2014
-thumbnail: "/projects/fu-textile-design/plist-fu-textile-design.jpg"
-
+thumbnail: https://himatt.com/projects/textile-design-catalogue/plist-textile-design-catalogue.jpg
 intro: |
   A project to design a catalogue for graduates of the Textile Design course
   (2013) at Falmouth University. I was asked to create something that did not
