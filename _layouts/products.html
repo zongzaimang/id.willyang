@@ -1,6 +1,6 @@
 ---
 layout: default
-title-class: project
+title-class: product
 ---
 
 <script type="application/ld+json">
@@ -11,8 +11,8 @@ title-class: project
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "{{ site.url | append: '/projects/' }}",
-        "name": "Projects"
+        "@id": "{{ site.url | append: '/products/' }}",
+        "name": "products"
       }
     },{
       "@type": "ListItem",
@@ -26,15 +26,15 @@ title-class: project
   }
 </script>
 
-<div class="project-wrapper">
+<div class="product-wrapper">
 
-  <div class="project-info">
-    <section class="project-intro paragraph-normal">{{ page.intro | markdownify }}</section>
-    <aside class="project-details">
-      <div class="project-detail-wrapper">
+  <div class="product-info">
+    <section class="product-intro paragraph-normal">{{ page.intro | markdownify }}</section>
+    <aside class="product-details">
+      <div class="product-detail-wrapper">
 
         {% if page.disciplines %}
-        <div class="project-detail project-detail-6 project-detail-first">
+        <div class="product-detail product-detail-6 product-detail-first">
           <h3 class="title-label">Disciplines</h3>
           {% assign discipline_list = page.disciplines | split: ','  %}
 
@@ -45,14 +45,14 @@ title-class: project
         {% endif %}
 
           {% if page.time_period %}
-          <div class="project-detail project-detail-6">
+          <div class="product-detail product-detail-6">
             <h3 class="title-label">Year</h3>
             <p>{{ page.time_period }}</p>
           </div>
           {% endif %}
 
         {% if page.website.url %}
-        <div class="project-detail project-detail-12">
+        <div class="product-detail product-detail-12">
           <a href="{{ page.website.url }}" class="button-secondary">{{ page.website.button_text }}</a>
         </div>
         {% endif %}
