@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ebe886ae4431440a",
+        "id": "3bc298e3a58a9ddb",
         "type": "tabs",
         "children": [
           {
-            "id": "696c4072305a891d",
+            "id": "8787cb557d94af30",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "696c4072305a891d",
+  "active": "8787cb557d94af30",
   "lastOpenFiles": [
     "_projects/butterfly.md",
     "_projects/saatchi-gallery.md",
