@@ -23,7 +23,7 @@ long-title: Will Yang Design
 email: willyangdesign@gmail.com
 description: "产品设计师 Will Yang 的精选作品集"
 baseurl: "" # 网站的子路径，例如 /blog
-url: "https://id.willyang.space/" # 网站的主机名和协议
+url: "https://zongzaimang.github.io/" # 网站的主机名和协议
 timezone: China/Guangzhou
 year: 2024
 start-year: 2017
@@ -41,7 +41,7 @@ social-username:
   spotify: "willyangdesign"
 
 # 内容
-image_serve_path: "/images" # <img src="{{ site.image_serve_path }}/products/img.jpg">
+image_serve_path: "/images" # <img src="{{ site.image_serve_path }}/projects/img.jpg">
 
 # 构建设置
 markdown: kramdown
@@ -66,22 +66,22 @@ compress_html: # http://jch.penibelst.de/
 
 # 结构
 navigation:
-  - title: Products
-    url: /products
-  - title: Packaging
+  - title: PRODUCT
+    url: /Projects
+  - title: PACKAGING
     url: /packaging
-  - title: About
+  - title: ABOUT
     url: /about
-  - title: Contact
+  - title: CONTACT
     url: /contact
 
 permalink: /:title/
 
 # 配置站点集合
 collections:
-  products:
+  projects:
     output: true
-    permalink: /products/:path/
+    permalink: /projects/:path/
   fonts:
     output: true
     permalink: /packaging/:path/
@@ -89,9 +89,9 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "products"
+      type: "projects"
     values:
-      layout: "products"
+      layout: "project"
   - scope:
       path: ""
       type: "fonts"
