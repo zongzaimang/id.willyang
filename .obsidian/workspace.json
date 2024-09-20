@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1a59452c23a1c2cc",
+        "id": "77d03aa225eda107",
         "type": "tabs",
         "children": [
           {
-            "id": "2d3a07c8964a6429",
+            "id": "dfcbb0dee0de9455",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_projects/textile-design-catalogue.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_projects/textile-design-catalogue.md",
+                "file": "_projects/butterfly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_projects/textile-design-catalogue.md",
+                "file": "_projects/butterfly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_projects/textile-design-catalogue.md"
+                "file": "_projects/butterfly.md"
               }
             }
           }
@@ -146,13 +142,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2d3a07c8964a6429",
+  "active": "d05ef9f4d462fa2c",
   "lastOpenFiles": [
     "_projects/saatchi-gallery.md",
     "_projects/textile-design-catalogue.md",
+    "image1_url.md",
     "readme.md",
     "Pasted image 20240920163307.png",
-    "image1_url.md",
     "image2_url.md",
     "_projects/butterfly.md",
     "_drafts/butterfly.md",
