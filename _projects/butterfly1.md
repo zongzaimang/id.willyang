@@ -2,7 +2,7 @@
 date: 2017-01-1
 published: true
 sitemap: false
-title: Butterfly
+title: Butterfly1
 description: Experience, architecture and design for a social networking app made for creatives
 categories: app, ux, mobile
 disciplines: UX, App design, Information Architecture
