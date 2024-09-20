@@ -69,7 +69,7 @@ navigation:
   - title: Products
     url: /
   - title: Packaging
-    url: /fronts
+    url: /fonts
   - title: About
     url: /about
   - title: Contact
@@ -84,7 +84,7 @@ collections:
     permalink: /projects/:path/
   fonts:
     output: true
-    permalink: /fronts/:path/
+    permalink: /fonts/:path/
 
 defaults:
   - scope:
