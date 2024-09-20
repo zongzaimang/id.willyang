@@ -68,11 +68,11 @@ compress_html: # http://jch.penibelst.de/
 navigation:
   - title: Products
     url: /
-  - title: PACKAGING
+  - title: Packaging
     url: /packaging
-  - title: ABOUT
+  - title: About
     url: /about
-  - title: CONTACT
+  - title: Contact
     url: /contact
 
 permalink: /:title/
