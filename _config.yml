@@ -67,7 +67,7 @@ compress_html: # http://jch.penibelst.de/
 # 结构
 navigation:
   - title: Products
-    url: /Products
+    url: /products
   - title: PACKAGING
     url: /packaging
   - title: ABOUT

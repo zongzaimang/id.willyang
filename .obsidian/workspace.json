@@ -11,8 +11,12 @@
             "id": "5e410542b56bd73e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_projects/butterfly.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_projects/butterfly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_projects/butterfly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_projects/butterfly.md"
+              }
             }
           }
         ]
@@ -140,15 +148,16 @@
   },
   "active": "5e410542b56bd73e",
   "lastOpenFiles": [
+    "_pages/products.html",
+    "_projects/210825 COLBOR CL60R.md",
+    "_projects/201201 Colbor PL8R.md",
     "_projects/butterfly.md",
     "_drafts/230130 HC65 UHE.md",
-    "_projects/201201 Colbor PL8R.md",
     "_projects/saatchi-gallery.md",
     "_projects/textile-design-catalogue.md",
     "readme.md",
     "_includes/logo.svg",
     "_drafts/butterfly.md",
-    "_projects/210825 COLBOR CL60R.md",
     "images/mg-logo.png"
   ]
 }
