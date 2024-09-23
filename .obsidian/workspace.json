@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "955bbf3dc03a7bf9",
+        "id": "ff65a216777ca564",
         "type": "tabs",
         "children": [
           {
-            "id": "49a83b6abe38d3df",
+            "id": "77f5167fc3646775",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_projects/COLBOR-PL8R.md",
+                "file": "_projects/COLBOR-CL60R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_projects/COLBOR-PL8R.md",
+                "file": "_projects/COLBOR-CL60R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_projects/COLBOR-PL8R.md"
+                "file": "_projects/COLBOR-CL60R.md"
               }
             }
           }
@@ -144,40 +144,40 @@
   },
   "active": "d05ef9f4d462fa2c",
   "lastOpenFiles": [
+    "_projects/COLBOR-PL8R.md",
+    "images/projects/201201 Colbor PL8R/unified-watch-icon-guides.png",
+    "images/projects/201201 Colbor PL8R/unified-icon-specimen.png",
+    "images/projects/201201 Colbor PL8R/unified-graph-icon-guides.png",
+    "images/projects/201201 Colbor PL8R/unified-globe-icon-guides.png",
+    "images/projects/201201 Colbor PL8R/unified-fill-icon-guides.png",
+    "images/projects/201201 Colbor PL8R/plist-unified.png",
+    "images/projects/201201 Colbor PL8R/plist-201201 Colbor PL8R.jpg",
+    "images/projects/201201 Colbor PL8R",
+    "images/projects/210825 COLBOR CL60R/COLBOR CL60R 04.jpg",
+    "images/projects/210825 COLBOR CL60R/plist-210825 COLBOR CL60R.jpg",
+    "images/projects/210825 COLBOR CL60R/COLBOR CL60R 03.jpg",
+    "images/projects/210825 COLBOR CL60R",
     "_projects/COLBOR-CL60R.md",
     "_projects/textile-design-catalogue.md",
     "_projects/saatchi-gallery.md",
-    "_projects/COLBOR-PL8R.md",
     "_projects/butterfly.md",
     "_drafts/projects.html",
     "_drafts/butterfly.md",
     "_drafts/saatchi-gallery 1.md",
     "readme.md",
     "_drafts/未命名.md",
-    "Pasted image 20240920223657.png",
     "image1_url.md",
-    "Pasted image 20240920224642.png",
-    "Pasted image 20240920224614.png",
     "_projects/butterfly1.md",
     "_fonts/social-networking-icons.md",
     "_fonts/pixter.md",
-    "Pasted image 20240920163307.png",
     "image2_url.md",
     "_config2.yml",
-    "images/projects/230423 MH40Pro/03.jpg",
-    "images/projects/230423 MH40Pro/plist-220823 SUMMIT10000.jpg",
-    "images/projects/230423 MH40Pro/06.jpg",
-    "images/projects/230423 MH40Pro/02.jpg",
-    "images/projects/230423 MH40Pro/05.jpg",
-    "images/projects/230423 MH40Pro/01.jpg",
     "images/projects/230423 MH40Pro",
     "images/projects/240520 EDC27",
     "images/projects/230810 HA15",
     "images/projects/230803 NES1200",
     "images/projects/230130 HC65 UHE",
     "images/projects/221206 BB21",
-    "images/projects/221110 EBP10",
-    "images/projects/220823 SUMMIT10000",
     "_products/textile-design-catalogue.md",
     "_products/210825 COLBOR CL60R.md",
     "_products/butterfly.md",
