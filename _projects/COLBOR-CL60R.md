@@ -43,11 +43,7 @@ content_layout:
         width: 
         height:
 ---
-![](https://s2.loli.net/2024/09/23/GRmzldnvNOwqI39.jpg)
-
-![](https://s2.loli.net/2024/09/23/TnpPVOBWFZycSao.jpg)
-
-![](https://s2.loli.net/2024/09/23/Xa9TzUGWu58cbPV.jpg)
-
-![](https://s2.loli.net/2024/09/23/Gyjw8eqFhWzX9Ni.jpg)
-
+![](https://s2.loli.net/2024/09/23/GRmzldnvNOwqI39.jpg)<br>
+![](https://s2.loli.net/2024/09/23/TnpPVOBWFZycSao.jpg)<br>
+![](https://s2.loli.net/2024/09/23/Xa9TzUGWu58cbPV.jpg)<br>
+![](https://s2.loli.net/2024/09/23/Gyjw8eqFhWzX9Ni.jpg)<br>
