@@ -10,7 +10,7 @@ media:
 ownership: Personal
 client: 
 time_period: 2020 – present
-thumbnail: /projects/201201 Colbor PL8R/plist-201201 Colbor PL8R.jpg
+thumbnail: https://s2.loli.net/2024/09/23/WYSQGrz8iNdsKBl.jpg
 intro: |
   Unified was created in response to the ever-growing demand for a set of
   universally appropriate icons suitable for projects I work on, both

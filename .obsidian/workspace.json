@@ -4,27 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f44d1c47607e4ff0",
+        "id": "955bbf3dc03a7bf9",
         "type": "tabs",
         "children": [
           {
-            "id": "6e40ca97b6bd0b66",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3d2c992203e6d101",
+            "id": "49a83b6abe38d3df",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_projects/COLBOR-PL8R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_projects/COLBOR-PL8R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_projects/COLBOR-PL8R.md"
+              }
             }
           }
         ]
@@ -147,14 +142,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3d2c992203e6d101",
+  "active": "d05ef9f4d462fa2c",
   "lastOpenFiles": [
-    "_projects/saatchi-gallery.md",
-    "_projects/textile-design-catalogue.md",
     "_projects/COLBOR-CL60R.md",
+    "_projects/textile-design-catalogue.md",
+    "_projects/saatchi-gallery.md",
+    "_projects/COLBOR-PL8R.md",
     "_projects/butterfly.md",
     "_drafts/projects.html",
-    "_projects/COLBOR-PL8R.md",
     "_drafts/butterfly.md",
     "_drafts/saatchi-gallery 1.md",
     "readme.md",

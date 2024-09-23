@@ -9,7 +9,7 @@ media: Book
 ownership: Personal
 client: 
 time_period: 2014
-thumbnail: https://himatt.com/projects/textile-design-catalogue/plist-textile-design-catalogue.jpg
+thumbnail: https://s2.loli.net/2024/09/23/3MJVOoKQus1wank.jpg
 intro: |
   A project to design a catalogue for graduates of the Textile Design course
   (2013) at Falmouth University. I was asked to create something that did not
