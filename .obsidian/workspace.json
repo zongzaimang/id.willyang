@@ -4,18 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "671a1796fa2aa488",
+        "id": "f44d1c47607e4ff0",
         "type": "tabs",
         "children": [
           {
-            "id": "cdc15e269bb94ba9",
+            "id": "6e40ca97b6bd0b66",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d2c992203e6d101",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +147,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cdc15e269bb94ba9",
+  "active": "3d2c992203e6d101",
   "lastOpenFiles": [
     "_projects/saatchi-gallery.md",
     "_projects/textile-design-catalogue.md",
