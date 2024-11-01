@@ -10,7 +10,7 @@ media:
 ownership: 
 client: Zhiying Tech
 time_period: 2021
-thumbnail: https://s2.loli.net/2024/11/01/TN8crQmtIlA7M9D.jpg
+thumbnail: https://s2.loli.net/2024/11/01/civG3ETQOUk7Adf.jpg
 intro: The SYNCO P1S is a noise cancelling microphone for phone. It includes a transmitter, a receiver of Type-C (P1ST) or Lightning (P1SL) connector, and a drawer-style charging case. The auto pairing, quick charge, and compact design make the P1S a good choice for mobile recording.
 ---
 ![](https://s2.loli.net/2024/09/23/GRmzldnvNOwqI39.jpg)<br>
