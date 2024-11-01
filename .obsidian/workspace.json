@@ -11,10 +11,14 @@
             "id": "542b678ac157b689",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_projects/210805 SYNCO P1S.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "210805 SYNCO P1S"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_projects/210805 SYNCO P1S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "210805 SYNCO P1S 的反向链接列表"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_projects/210805 SYNCO P1S.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "210805 SYNCO P1S 的出链列表"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "_projects/210805 SYNCO P1S.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "210805 SYNCO P1S 的大纲"
             }
           }
         ]
@@ -156,12 +164,13 @@
   },
   "active": "542b678ac157b689",
   "lastOpenFiles": [
-    "_projects/210805 SYNCO P1S.md",
+    "_projects/butterfly.md",
     "_projects/COLBOR-CL60R.md",
     "_projects/COLBOR-PL8R.md",
-    "_projects/butterfly.md",
-    "_projects/textile-design-catalogue.md",
+    "_projects/210805 SYNCO P1S.md",
     "_projects/saatchi-gallery.md",
+    "_drafts/220610 AP10.md",
+    "_projects/textile-design-catalogue.md",
     "_drafts/220421 Bubble.md",
     "_drafts/未命名.md",
     "_drafts/saatchi-gallery 1.md",
